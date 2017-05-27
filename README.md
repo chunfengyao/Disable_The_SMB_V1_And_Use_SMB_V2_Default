@@ -1,0 +1,2 @@
+# Disable_The_SMB_V1_And_Use_SMB_V2_Default
+修改文件系统驱动服务，是的系统默认使用SMB V2协议进行文件共享，并禁用SMB V1协议的自启动
